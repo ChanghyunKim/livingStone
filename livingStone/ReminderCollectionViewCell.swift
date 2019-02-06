@@ -21,6 +21,4 @@ class ReminderCollectionViewCell: UICollectionViewCell {
         self.titleLabel.text = content
     }
     
-    // Depends on
-    
 }
