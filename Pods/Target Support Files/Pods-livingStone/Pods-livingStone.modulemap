@@ -1,0 +1,6 @@
+framework module Pods_livingStone {
+  umbrella header "Pods-livingStone-umbrella.h"
+
+  export *
+  module * { export * }
+}
